@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-1421-add-a-health-check-for-the-prompt-registry-s",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-1421-add-a-health-check-for-the-prompt-registry-s": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-1421-add-a-health-check-for-the-prompt-registry-s",
+    "origin"
+  ]
+}
